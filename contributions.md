@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  2   |  https://github.com/nyu-ossd-s19/wang1998tina-weekly/issues/3  |  Tina1998Wang-weekly  |   I added an issue regarding the expected date of finish for her project   |
 |     |     |     |      |
 |     |     |     |      |
