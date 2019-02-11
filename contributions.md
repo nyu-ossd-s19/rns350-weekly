@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   |  https://github.com/nyu-ossd-s19/wang1998tina-weekly/issues/3  |  Tina1998Wang-weekly  |   I added an issue regarding the expected date of finish for her project   |
-|     |     |     |      |
-|     |     |     |      |
+|  2  |  https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/2  |  rachelyhe-weekly  |   I added an issue that said the about page wasn't written  |
+|  2  |  https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/issues/1  |  StanimalTheMan-weekly  |  I added an issue requesting a new photo on the blog  |
